@@ -1,1 +1,2 @@
-alert("Goodbay World")
+alert("Goodbay World");
+alert("Goodbay")
